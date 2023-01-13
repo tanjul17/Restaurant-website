@@ -81,15 +81,15 @@ const Menu = [
       description:
         "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ",
     },
-    {
-      id: 1,
-      image: "../images/Profile_picture.jpeg",
-      name: "Photos",
-      category: "tanjul",
-      price: "10₹",
-      description:
-        "Hey this is tanjul sarathe currently doing my btech from VIT Bhopal with specialization in CLoud computing and automation",
-    },
+    // {
+    //   id: 1,
+    //   image: "../images/Profile_picture.jpeg",
+    //   name: "Photos",
+    //   category: "tanjul",
+    //   price: "10₹",
+    //   description:
+    //     "Hey this is tanjul sarathe currently doing my btech from VIT Bhopal with specialization in CLoud computing and automation",
+    // },
   ];
   
   export default Menu;
